@@ -98,7 +98,7 @@ class App extends React.Component {
         schemas: [
           {
             uri: "http://myserver/foo-schema.json",
-            fileMatch: ["*"],
+            fileMatch: ["inmemory://model/2"],
             schema: schema
           }
         ]
