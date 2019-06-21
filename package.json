@@ -1,6 +1,6 @@
 {
   "name": "json-schema-validator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://fer0x.github.io/json-schema-validator",
   "private": true,
   "dependencies": {
