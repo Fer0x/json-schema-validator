@@ -51,7 +51,7 @@ class App extends React.Component {
     if (hash[0] !== "#" || hash.length < 2) return null;
 
     const version = hash.slice(1, 2);
-    const encoded = hash.slice(2).split("|");
+    const encoded = window.decodeURIComponent(hash.slice(2)).split("|");
 
     const encodedSchema = encoded[0];
     const encodedData = encoded[1];
