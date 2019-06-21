@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/json-schema-validator/editor.worker.js"
   },
   {
-    "revision": "e74bc4a99141c25a2d1057c9c97de2a0",
+    "revision": "7c09f01372de15e753f4e5e7476a9a56",
     "url": "/json-schema-validator/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/json-schema-validator/static/css/2.aafe3796.chunk.css"
   },
   {
-    "revision": "2b6cffbb18d9d58192fe",
+    "revision": "b17542f5e204ff8a3bef",
     "url": "/json-schema-validator/static/css/main.47a265cc.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/json-schema-validator/static/js/3.af3055d6.chunk.js"
   },
   {
-    "revision": "2b6cffbb18d9d58192fe",
-    "url": "/json-schema-validator/static/js/main.f6125300.chunk.js"
+    "revision": "b17542f5e204ff8a3bef",
+    "url": "/json-schema-validator/static/js/main.599357f5.chunk.js"
   },
   {
     "revision": "4cb42fb7dbae8cfaa854",
