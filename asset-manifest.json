@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/json-schema-validator/static/css/main.b536f62e.chunk.css",
+    "main.js": "/json-schema-validator/static/js/main.95393a62.chunk.js",
+    "main.js.map": "/json-schema-validator/static/js/main.95393a62.chunk.js.map",
+    "runtime~main.js": "/json-schema-validator/static/js/runtime~main.ac782000.js",
+    "runtime~main.js.map": "/json-schema-validator/static/js/runtime~main.ac782000.js.map",
+    "static/css/2.64dc153d.chunk.css": "/json-schema-validator/static/css/2.64dc153d.chunk.css",
+    "static/js/2.ec76216b.chunk.js": "/json-schema-validator/static/js/2.ec76216b.chunk.js",
+    "static/js/2.ec76216b.chunk.js.map": "/json-schema-validator/static/js/2.ec76216b.chunk.js.map",
+    "static/js/3.31ac340c.chunk.js": "/json-schema-validator/static/js/3.31ac340c.chunk.js",
+    "static/js/3.31ac340c.chunk.js.map": "/json-schema-validator/static/js/3.31ac340c.chunk.js.map",
+    "editor.worker.js": "/json-schema-validator/editor.worker.js",
+    "editor.worker.js.map": "/json-schema-validator/editor.worker.js.map",
+    "index.html": "/json-schema-validator/index.html",
+    "json.worker.js": "/json-schema-validator/json.worker.js",
+    "json.worker.js.map": "/json-schema-validator/json.worker.js.map",
+    "precache-manifest.f7649cc1803df7cad2756ef0621ee1f8.js": "/json-schema-validator/precache-manifest.f7649cc1803df7cad2756ef0621ee1f8.js",
+    "service-worker.js": "/json-schema-validator/service-worker.js",
+    "static/css/2.64dc153d.chunk.css.map": "/json-schema-validator/static/css/2.64dc153d.chunk.css.map",
+    "static/css/main.b536f62e.chunk.css.map": "/json-schema-validator/static/css/main.b536f62e.chunk.css.map"
+  }
+}
